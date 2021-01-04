@@ -1,5 +1,5 @@
-# Trabajo Practico N°5 - Lenguaje Mini (Compilador Completo) (Con generador de código y rutinas semánticas)
-Quinto y último Trabajo Practico Sintaxis y Semantica de los Lenguajes - Año 2020 - Curso K2053
+# Trabajo Practico N°5 - Lenguaje Mini (Compilador completo con generador de código y rutinas semánticas)
+Quinto Trabajo Practico Sintaxis y Semantica de los Lenguajes - Año 2020 - Curso K2053
 
 ## Integrantes
 * Lucas Maspero               (Legajo 161542-7)
